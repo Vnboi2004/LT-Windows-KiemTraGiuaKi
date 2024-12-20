@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\C#\\SalesManager\\KiemTraGiuKi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B645BE4-445F-4DB0-B5F4-1E123C74943E}|De02\\De02.csproj|c:\\workspace\\c#\\salesmanager\\kiemtragiuki\\de02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B645BE4-445F-4DB0-B5F4-1E123C74943E}|De02\\De02.csproj|solutionrelative:de02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B645BE4-445F-4DB0-B5F4-1E123C74943E}|De02\\De02.csproj|c:\\workspace\\c#\\salesmanager\\kiemtragiuki\\de02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B645BE4-445F-4DB0-B5F4-1E123C74943E}|De02\\De02.csproj|solutionrelative:de02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B645BE4-445F-4DB0-B5F4-1E123C74943E}|De02\\De02.csproj|c:\\workspace\\c#\\salesmanager\\kiemtragiuki\\de02\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B645BE4-445F-4DB0-B5F4-1E123C74943E}|De02\\De02.csproj|solutionrelative:de02\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Workspace\\C#\\SalesManager\\KiemTraGiuKi\\De02\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "De02\\Form1.Designer.cs",
+              "ToolTip": "C:\\Workspace\\C#\\SalesManager\\KiemTraGiuKi\\De02\\Form1.Designer.cs",
+              "RelativeToolTip": "De02\\Form1.Designer.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAuwG0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:28:06.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Workspace\\C#\\SalesManager\\KiemTraGiuKi\\De02\\Form1.cs",
+              "RelativeDocumentMoniker": "De02\\Form1.cs",
+              "ToolTip": "C:\\Workspace\\C#\\SalesManager\\KiemTraGiuKi\\De02\\Form1.cs",
+              "RelativeToolTip": "De02\\Form1.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAqwMQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:20:03.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Workspace\\C#\\SalesManager\\KiemTraGiuKi\\De02\\Form1.cs",
+              "RelativeDocumentMoniker": "De02\\Form1.cs",
+              "ToolTip": "C:\\Workspace\\C#\\SalesManager\\KiemTraGiuKi\\De02\\Form1.cs [Design]",
+              "RelativeToolTip": "De02\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:03:37.436Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
